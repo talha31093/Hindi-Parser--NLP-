@@ -7,6 +7,11 @@ HINDI PARSER
 Submitted by - Mohammad Talha Khan (IIT2011073)
 			   Aaquib Khwaja (IIT2011127)
 
+
+DOWNLOAD shallow parser:
+http://ltrc.iiit.ac.in/showfile.php?filename=downloads/shallow_parser.php
+Download for Hind- version 4.0
+
 (A) Requirements -
 	Operating System				:	LINUX (tested on Fedora-8 and lower versions)
 	Compiler/Interpreter/Librarie(s):	g++, Perl and SSF API's
